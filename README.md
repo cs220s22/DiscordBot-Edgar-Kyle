@@ -4,7 +4,7 @@ DevOps Final Project
 Authors: Kyle Adams, Edgar Perez
 
 ## Overview 
- - describe the project
+ - Describe the project
 
 ## Setup 
 - What does someone do to make it run?
