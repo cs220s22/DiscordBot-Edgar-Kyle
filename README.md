@@ -4,7 +4,7 @@ DevOps Final Project
 Authors: Kyle Adams, Edgar Perez
 
 ## Overview 
- - Describe the project
+ - Our project was to launch a Discord bot using Python. 
 
 ## Local Setup 
 - Add the Discord Token to the .env file with the name DISCORD_TOKEN.
